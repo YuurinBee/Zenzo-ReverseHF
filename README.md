@@ -69,7 +69,7 @@ use cases, such as the [ZENZO Arcade](https://arcade.zenzo.io) and the [ZENZO SD
 </table>
 
 ### ZENZO Coin (ZNZ) Denomination Table
-(Smallest Unit of Measurement)
+(*Smallest Unit of Measurement*)
 <table>
 <tr><td>1 ZNZ</td><td>100,000,000 ZEN</td></tr>
 <tr><td>0.1 ZNZ</td><td>10,000,000 ZEN</td></tr>  
