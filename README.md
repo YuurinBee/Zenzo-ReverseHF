@@ -55,6 +55,19 @@ use cases, such as the [ZENZO Arcade](https://arcade.zenzo.io) and the [ZENZO SD
 <tr><td>Block 100,001 - ∞</td><td>9</td></tr>  
 </table>
 
+### ZENZO Coin (ZNZ) Denominations
+<table>
+<tr><td>1 ZEN</td><td>0.00000001 ZNZ</td></tr>
+<tr><td>10 ZEN</td><td>0.00000010 ZNZ</td></tr>  
+<tr><td>100 ZEN</td><td>0.00000100 ZNZ</td></tr>
+<tr><td>1,000 ZEN</td><td>0.00001000 ZNZ</td></tr>
+<tr><td>10,000 ZEN</td><td>0.00010000 ZNZ</td></tr>  
+<tr><td>100,000 ZEN</td><td>0.00100000 ZNZ</td></tr>
+<tr><td>1,000,000 ZEN</td><td>0.01000000 ZNZ</td></tr>
+<tr><td>10,000,000 ZEN</td><td>0.10000000 ZNZ</td></tr>
+<tr><td>100,000,000 ZEN</td><td>1.00000000 ZNZ</td></tr>
+</table>
+
 ***
 
 
